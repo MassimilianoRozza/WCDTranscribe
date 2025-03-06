@@ -1,4 +1,6 @@
 # whisper-colab-drive-transcribe:
+**Worst name ever!**
+
 ## Description
 
 This Python script for Google Colab automates the batch transcription of Italian audio files using OpenAI's Whisper model. Audio files are processed directly from Google Drive, and the resulting transcriptions are saved as text files in the same folder.
